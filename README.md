@@ -2,16 +2,16 @@
 
 I'm a Fullstack Developer and Teacher by Passion.  
 I am passionate about Javascript and Reactjs at the FrontEnd and Nodejs at the BackEnd. 💻💥
+If you are Looking to Hire Me, then you can directly contact Me
 
-**My Skills**
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+## My Skills
 
-- 🔭 I’m currently working on E-commerce Webapp
+| Category | Language |
+| ----------- | ----------- |
+| FrontEnd | HTML, CSS, JAVASCRIPT, BOOTSTRAP, MATERIALIZE-CSS, REACT |
+| Backend  | NODEJS, EXPRESSJS, MONGODB |
+| Others   | GIT & GITHUB, DATA STRUCTURES & ALGORITHMS, LINUX |
+
+- 🔭 I’m currently working on E-commerce Webapp ( Online Book Store )
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ajaysharma12799@gmail.com
