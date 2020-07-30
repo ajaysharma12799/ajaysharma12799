@@ -1,4 +1,4 @@
-### Hi there I'm Ajay Sharma   👋
+## Hi there I'm Ajay Sharma   👋
 
 I'm a Fullstack Developer and Teacher by Passion.  
 
