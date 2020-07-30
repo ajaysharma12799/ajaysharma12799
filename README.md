@@ -1,7 +1,9 @@
 ### Hi there I'm Ajay Sharma   👋
 
 I'm a Fullstack Developer and Teacher by Passion.  
+
 I am passionate about Javascript and Reactjs at the FrontEnd and Nodejs at the BackEnd. 💻💥
+
 If you are Looking to Hire Me, then you can directly contact Me
 
 ## My Skills
