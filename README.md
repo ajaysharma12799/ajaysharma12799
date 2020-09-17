@@ -1,19 +1,56 @@
-## Hi there I'm Ajay Sharma   👋
+<p align="center">
 
-I'm a Fullstack Developer and Teacher by Passion.  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
-I am passionate about Javascript and Reactjs at the FrontEnd and Nodejs at the BackEnd. 💻💥
+# Hey <img src="" width="40px">, I'm [Ajay Sharma!](https://github.com/ajaysharma12799)
+<br/>
 
-If you are Looking to Hire Me, then you can directly contact Me
+<a href="https://www.linkedin.com/in/ajaysharma12799">
+  <img align="left" alt="Ajay Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+</a>
 
-## My Skills
+<a href="https://www.instagram.com/ajaysharma12799/">
+  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
+</a>
 
-| Category | Language |
-| ----------- | ----------- |
-| FrontEnd | HTML, CSS, JAVASCRIPT, BOOTSTRAP, MATERIALIZE-CSS, REACT |
-| Backend  | NODEJS, EXPRESSJS, MONGODB |
-| Others   | GIT & GITHUB, DATA STRUCTURES & ALGORITHMS, LINUX |
+<a href="https://github.com/ajaysharma12799">
+  <img align="left" alt="Ajay Github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+</a>
 
-- 🔭 I’m currently working on E-commerce Webapp ( Online Book Store )
-- 🌱 I’m currently learning React
-- 📫 How to reach me: ajaysharma12799@gmail.com
+<a href="https://www.hackerrank.com/ajaysharma12799">
+  <img align="left" alt="Ajay HackerRank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
+
+<a href="ajaysharma12799@gmail.com">
+  <img align="left" alt="Ajay Gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
+
+<br>
+<br>
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+
+- Currently Pursuing BCA
+- I am Passionate about Full Stack Development
+- Ask me about Anything, I will be Happy to Help.
+
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br/>
+
+<div align="center">
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajaysharma12799&show_icons=true&theme=radical)
+
+</div>
