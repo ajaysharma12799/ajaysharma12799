@@ -4,7 +4,7 @@
   
 </p>
 
-# Hey <img src="" width="40px">, I'm [Ajay Sharma!](https://github.com/ajaysharma12799)
+# Hey <img src="https://github.com/ajaysharma12799/ajaysharma12799/blob/master/wave.gif" width="40px">, I'm [Ajay Sharma!](https://github.com/ajaysharma12799)
 <br/>
 
 <a href="https://www.linkedin.com/in/ajaysharma12799">
