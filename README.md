@@ -14,9 +14,6 @@
 [<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/instagram-red.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][linkedin]
 
-<br>
-<br>
-
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 - Currently Pursuing BCA
