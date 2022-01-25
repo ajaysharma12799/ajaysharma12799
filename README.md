@@ -16,7 +16,6 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- Currently Pursuing BCA
 - Currently Learning JavaScript, Some New Concept's in FrontEnd Development and Improving My UI Skills( means CSS ).
 - I am Passionate about Full Stack Development ( MERN ).
 - Ask me about Anything, I will be Happy to Help.
