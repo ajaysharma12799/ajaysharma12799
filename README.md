@@ -10,9 +10,9 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- I am a Passionate Frontend (ReactJS) and Mobile Developer (React Native)
-- I am Currently Learning Backend Development (Node, Express and MongoDB).
-- Ask me about Anything, I will be Happy to Help.
+- I am a Full Stack Web and Mobile Dev by Profession and a Teacher by Passion.
+- I am Open for Collaborations Related to MERN Stack and React-Native
+- Ask me about Anything, and I will be Happy to Help.
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
