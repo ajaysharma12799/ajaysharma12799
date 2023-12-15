@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-</p>
-
 # Hey <img src="https://github.com/ajaysharma12799/ajaysharma12799/blob/master/wave.gif" width="40px">, I'm Ajay Sharma
 
 <br/>
