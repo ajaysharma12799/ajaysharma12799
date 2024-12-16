@@ -57,15 +57,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ajaysharma12799&show_icons=true&theme=radical&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysharma12799&layout=compact&theme=radical" />
-</div>
-
----
-
 ## 🔗 Links
 
 - **[LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)**
