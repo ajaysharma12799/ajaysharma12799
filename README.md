@@ -1,36 +1,79 @@
 # Hey <img src="https://github.com/ajaysharma12799/ajaysharma12799/blob/master/wave.gif" width="40px">, I'm Ajay Sharma
 
-<br/>
+👨‍💻 **Full Stack Developer** | 🚀 **Founder of StackByte Tech**  
+**4+ years of experience** in building scalable, high-performance applications. I'm passionate about delivering solutions that solve real-world problems.
 
-<!-- Some Programming Platform and Social Account Link -->
+---
 
-[<img height="30" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+## 🚀 About Me
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+- **Full Stack Developer** with expertise in **MERN Stack**, **AWS**, **React Native**, **Flutter**, **Typescript**, and **Next.js**.
+- 💡 **Founder** of [**StackByte Tech**](https://www.stackbyte.tech/), a software development studio.
+- Open to **collaborations** and projects, especially those leveraging my skill set.
+- 💬 Ask me about **MERN**, **AWS**, **React Native**, **Flutter**, **Typescript**, or any tech topic, and I'll be happy to help!
 
-- I am a Full Stack Web and Mobile Dev by Profession and a Teacher by Passion.
-- I am Open for Collaborations Related to MERN Stack and React-Native
-- Ask me about Anything, and I will be Happy to Help.
+---
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
+## 🛠️ My Skill Set
 
+### Frontend:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+### Backend:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<br/>
-<!-- 
+### Mobile Development:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+
+---
+
+## 🧑‍💻 What I Do
+
+- Design, develop, and maintain high-quality **web and mobile applications**.
+- Leverage the **MERN Stack** and **React Native/Flutter** for building modern, responsive, and performance-optimized apps.
+- Architect scalable **AWS-based cloud solutions** to improve business operations.
+- Help businesses go digital and **automate processes** using modern technologies.
+
+---
+
+## 🌱 I'm Currently Learning
+
+- Advanced concepts in **AWS** to optimize cloud applications.
+- Exploring **Serverless architecture** for modern web apps.
+- **GraphQL** for better API interactions in modern web and mobile apps.
+
+---
+
+## 💬 Get in Touch
+
+- I am always open to collaborations and discussions about **tech trends**, **startups**, or **software development**.
+- Reach out to me via **[StackByte Tech Contact](https://www.stackbyte.tech/contact)** for any project inquiries or collaboration opportunities.
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ajaysharma12799&show_icons=true&theme=radical&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysharma12799&layout=compact&theme=radical" />
+</div>
 
-![Ajay github stats](https://github-readme-stats.vercel.app/api?username=ajaysharma12799&show_icons=true&theme=radical)
+---
 
-</div> -->
+## 🔗 Links
 
-[linkedin]: https://www.linkedin.com/in/ajaysharma12799/
-[github]: https://www.github.com/ajaysharma12799/
-[instagram]: https://www.instagram.com/ajaysharma12799/
-[leetcode]: https://leetcode.com/ajaysharma12799/
+- **[LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)**
+- **[GitHub](https://www.github.com/ajaysharma12799/)**
+- **[LeetCode](https://leetcode.com/ajaysharma12799/)**
+- **[Instagram](https://www.instagram.com/ajaysharma12799/)**
+- **[StackByte Tech Contact](https://www.stackbyte.tech/contact)**
+
+---
+
+**Thank you for visiting my profile! Let's build something amazing together! 🚀**
