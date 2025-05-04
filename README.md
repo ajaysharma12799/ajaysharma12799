@@ -1,6 +1,6 @@
 # Hey <img src="https://github.com/ajaysharma12799/ajaysharma12799/blob/master/wave.gif" width="40px">, I'm Ajay Sharma
 
-👨‍💻 **Full Stack Developer** | 🚀 **Founder of StackByte Tech**  
+👨‍💻 **Full Stack Developer** | 🚀 **Founder of Reactify Labs**  
 **4+ years of experience** in building scalable, high-performance applications. I'm passionate about delivering solutions that solve real-world problems.
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - **Full Stack Developer** with expertise in **MERN Stack**, **AWS**, **React Native**, **Flutter**, **Typescript**, and **Next.js**.
-- 💡 **Founder** of [**StackByte Tech**](https://www.stackbyte.tech/), a software development studio.
+- 💡 **Founder** of [**Reactify Labs**](https://reactifylabs.in/), a software development studio.
 - Open to **collaborations** and projects, especially those leveraging my skill set.
 - 💬 Ask me about **MERN**, **AWS**, **React Native**, **Flutter**, **Typescript**, or any tech topic, and I'll be happy to help!
 
@@ -53,7 +53,7 @@
 ## 💬 Get in Touch
 
 - I am always open to collaborations and discussions about **tech trends**, **startups**, or **software development**.
-- Reach out to me via **[StackByte Tech Contact](https://www.stackbyte.tech/contact)** for any project inquiries or collaboration opportunities.
+- Reach out to me via **[Reactify Labs Contact](https://reactifylabs.in/contact)** for any project inquiries or collaboration opportunities.
 
 ---
 
@@ -61,9 +61,9 @@
 
 - **[LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)**
 - **[GitHub](https://www.github.com/ajaysharma12799/)**
-- **[LeetCode](https://leetcode.com/ajaysharma12799/)**
+- **[LeetCode](https://leetcode.com/ajaysharma12799/)**s
 - **[Instagram](https://www.instagram.com/ajaysharma12799/)**
-- **[StackByte Tech Contact](https://www.stackbyte.tech/contact)**
+- **[Reactify Labs Contact](https://www.reactifylabs.in/contact)**
 
 ---
 
