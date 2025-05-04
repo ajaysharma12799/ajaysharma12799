@@ -61,7 +61,7 @@
 
 - **[LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)**
 - **[GitHub](https://www.github.com/ajaysharma12799/)**
-- **[LeetCode](https://leetcode.com/ajaysharma12799/)**s
+- **[LeetCode](https://leetcode.com/ajaysharma12799/)**
 - **[Instagram](https://www.instagram.com/ajaysharma12799/)**
 - **[Reactify Labs Contact](https://www.reactifylabs.in/contact)**
 
