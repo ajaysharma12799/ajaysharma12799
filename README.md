@@ -1,70 +1,73 @@
-# Hey <img src="https://github.com/ajaysharma12799/ajaysharma12799/blob/master/wave.gif" width="40px">, I'm Ajay Sharma
+# Hi, I'm Ajay Sharma
 
-👨‍💻 **Full Stack Developer** | 🚀 **Founder of Reactify Labs**  
-**4+ years of experience** in building scalable, high-performance applications. I'm passionate about delivering solutions that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- **Full Stack Developer** with expertise in **MERN Stack**, **AWS**, **React Native**, **Flutter**, **Typescript**, and **Next.js**.
-- 💡 **Founder** of [**Reactify Labs**](https://reactifylabs.in/), a software development studio.
-- Open to **collaborations** and projects, especially those leveraging my skill set.
-- 💬 Ask me about **MERN**, **AWS**, **React Native**, **Flutter**, **Typescript**, or any tech topic, and I'll be happy to help!
+**Full Stack Developer** | **Founder of Reactify Labs**  
+I have over 4 years of experience building fast, scalable, and user-friendly applications for the web and mobile.
 
 ---
 
-## 🛠️ My Skill Set
+## About Me
 
-### Frontend:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-### Backend:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-### Mobile Development:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+- I'm a full stack developer skilled in building web and mobile apps using modern tools and frameworks.
+- I run [Reactify Labs](https://reactifylabs.in/), where we help startups and businesses bring their ideas to life.
+- I'm always open to working on interesting projects or collaborating with others in the tech space.
+- If you have any questions about development or tech, feel free to reach out!
 
 ---
 
-## 🧑‍💻 What I Do
+## What I Do
 
-- Design, develop, and maintain high-quality **web and mobile applications**.
-- Leverage the **MERN Stack** and **React Native/Flutter** for building modern, responsive, and performance-optimized apps.
-- Architect scalable **AWS-based cloud solutions** to improve business operations.
-- Help businesses go digital and **automate processes** using modern technologies.
-
----
-
-## 🌱 I'm Currently Learning
-
-- Advanced concepts in **AWS** to optimize cloud applications.
-- Exploring **Serverless architecture** for modern web apps.
-- **GraphQL** for better API interactions in modern web and mobile apps.
+- Build modern and responsive web apps using the MERN Stack.
+- Develop cross-platform mobile apps with React Native and Flutter.
+- Deploy and manage applications on AWS.
+- Help businesses automate processes and go digital.
 
 ---
 
-## 💬 Get in Touch
+## My Tech Stack
 
-- I am always open to collaborations and discussions about **tech trends**, **startups**, or **software development**.
-- Reach out to me via **[Reactify Labs Contact](https://reactifylabs.in/contact)** for any project inquiries or collaboration opportunities.
+**Frontend:**  
+HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, TypeScript
+
+**Backend:**  
+Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, Firebase, NestJS
+
+**Mobile App Development:**  
+React Native, Flutter
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, Lambda), Docker, GitHub Actions, Vercel, Railway
+
+**Other Tools:**  
+Git, Postman, Figma, Jira, Notion, Stripe, GraphQL, REST APIs
 
 ---
 
-## 🔗 Links
+## I'm Currently Learning
 
-- **[LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)**
-- **[GitHub](https://www.github.com/ajaysharma12799/)**
-- **[LeetCode](https://leetcode.com/ajaysharma12799/)**
-- **[Instagram](https://www.instagram.com/ajaysharma12799/)**
-- **[Reactify Labs Contact](https://www.reactifylabs.in/contact)**
+- Deeper AWS concepts for scaling apps better
+- Serverless architectures
+- GraphQL for building better APIs
 
 ---
 
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
+## Get in Touch
+
+I'm always happy to chat about:
+
+- New project ideas  
+- Tech stacks and tools  
+- Startup ideas and collaborations
+
+Reach out here → [Reactify Labs Contact](https://reactifylabs.in/contact)
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ajaysharma12799/)
+- [GitHub](https://www.github.com/ajaysharma12799/)
+- [Reactify Labs](https://reactifylabs.in/)
+
+---
+
+**Thanks for checking out my profile. Let’s build something awesome together!**
