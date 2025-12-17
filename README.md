@@ -1,51 +1,51 @@
 # Hi, I'm Ajay Sharma
 
 **Full Stack Developer**  
-I have over 4 years of experience building fast, scalable, and user-friendly web and mobile applications.
+I build fast, scalable, and user-friendly web and mobile applications.
 
 ---
 
 ## About Me
 
-- Full stack developer skilled in building web and mobile apps using modern tools and frameworks.
-- Open to working on interesting projects or collaborating with others in the tech space.
-- Happy to answer questions about development or tech.
+- Full stack developer focused on building practical and reliable products  
+- Enjoy working on real-world problems and clean system design  
+- Open to collaborations, side projects, and meaningful tech discussions  
 
 ---
 
 ## What I Do
 
-- Build modern and responsive web apps using the MERN Stack.
-- Develop cross-platform mobile apps with React Native and Flutter.
-- Deploy and manage applications on AWS.
-- Help businesses automate processes and go digital.
+- Build modern web applications using React and Node.js  
+- Develop cross-platform mobile apps with React Native and Flutter  
+- Deploy and manage applications on cloud platforms  
+- Help businesses automate workflows and go digital  
 
 ---
 
 ## Tech Stack
 
-**Frontend:**  
-HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, TypeScript
+**Frontend**  
+React.js, Next.js, JavaScript, TypeScript, Tailwind CSS  
 
-**Backend:**  
-Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, Firebase, NestJS
+**Backend**  
+Node.js, Express.js, NestJS, MongoDB, PostgreSQL, Firebase  
 
-**Mobile:**  
-React Native, Flutter
+**Mobile**  
+React Native  
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda), Docker, GitHub Actions, Vercel, Railway
+**Cloud & DevOps**  
+AWS, Docker, GitHub Actions, Vercel  
 
-**Other Tools:**  
-Git, Postman, Figma, Jira, Notion, Stripe, GraphQL, REST APIs
+**Tools**  
+Git, Postman, Figma, Stripe, REST APIs, GraphQL  
 
 ---
 
 ## Currently Learning
 
-- Advanced AWS concepts for scaling apps
-- Serverless architectures
-- GraphQL for building better APIs
+- Scalable cloud architectures  
+- Serverless systems  
+- Advanced API design  
 
 ---
 
@@ -54,8 +54,8 @@ Git, Postman, Figma, Jira, Notion, Stripe, GraphQL, REST APIs
 Open to:
 
 - New project ideas  
-- Tech stacks and tools  
-- Collaborations
+- Tech discussions  
+- Collaborations  
 
 Reach out → [Contact](https://reactifylabs.in/contact)
 
